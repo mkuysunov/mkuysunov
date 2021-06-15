@@ -3,10 +3,10 @@
 ---
 
 Добро пожаловать на мою страницу!
-Я Дмитрий, фронтенд разработчик из Хакасии.
-В данный момент живу в Красноярске.
+Я Мухаммад, фронтенд разработчик из Таджикистане.
+В данный момент живу в Душанбе.
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/Dmitry Volkov-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dmitry-volkov-268ab9187?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlQ9KV0fvR3qu%2FEQlirJH4g%3D%3D) [<img alt="Telegram" src="https://img.shields.io/badge/@hyardlung-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/Hyardlung) [<img alt="Instagram" src="https://img.shields.io/badge/hyardlung-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>](https://instagram.com/hyardlung) [<img alt="Gmail" src="https://img.shields.io/badge/hyardlung@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:hyardlung@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Muhammad Kuysunov-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](linkedin.com/in/muhammad-kuysunov-a4a555200) [<img alt="Telegram" src="https://img.shields.io/badge/@mkuysunov-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/mkuysunov) [<img alt="Gmail" src="https://img.shields.io/badge/mkuysunov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:mkuysunov@gmail.com)
 
 - 🔭 Работаю над написанием серверного API для проекта Mesto (инстаграм на минималках).
 - 🌱 Изучаю основы бэкенда на Node.js и Express, а также MongoDB. Для полноты картины, так сказать. Потом приложения на стеке MERN.
@@ -23,16 +23,3 @@
 ### 🔧 Мои инструменты:
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" /> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-
-### 📈 Моя статистика:
-
-![Profile views](https://gpvc.arturio.dev/Hyardlung)
-
-![Hyardlung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyardlung&count_private=true&show_icons=true&theme=darcula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyardlung&theme=darcula&layout=compact)
-
----
-
-### 🎧 Сейчас я слушаю:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w6jdb230ctcppu0pgxum8f4po&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=w6jdb230ctcppu0pgxum8f4po&redirect=true)
