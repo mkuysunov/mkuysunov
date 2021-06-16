@@ -6,7 +6,7 @@
 Я Мухаммад, фронтенд разработчик из Таджикистане.
 В данный момент живу в Душанбе.
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/Muhammad Kuysunov-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](linkedin.com/in/muhammad-kuysunov-a4a555200) [<img alt="Telegram" src="https://img.shields.io/badge/@mkuysunov-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/mkuysunov) [<img alt="Gmail" src="https://img.shields.io/badge/mkuysunov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:mkuysunov@gmail.com)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Muhammad Kuysunov-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/muhammad-kuysunov-a4a555200/) [<img alt="Telegram" src="https://img.shields.io/badge/@mkuysunov-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/mkuysunov) [<img alt="Gmail" src="https://img.shields.io/badge/mkuysunov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:mkuysunov@gmail.com)
 
 - 🔭 Работаю с одним из команд банка "Хумо" и над крутыми проектами!
 - 🌱 Изучаю углубленно библиотеку react-redux и архитектуру строение папок.
